@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/3a530903-c0ee-4620-a2cc-016f4c6f7d04)
+
+
 # 👋 Olá, eu sou o Mario
 
 💻 Estudante de Engenharia de Software  
