@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Mario
 
-<!--
-**mariod3v-txt/mariod3v-txt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software  
+📚 Atualmente estudando C++ e algoritmos  
+⚡ Interessado em programação, tecnologia e sistemas  
 
-Here are some ideas to get you started:
+## 🚀 O que você vai encontrar aqui
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Projetos da faculdade
+- Experimentos em C++
+- Estudos de programação
+- Evolução da minha jornada na engenharia
+
+## 🛠️ Tecnologias
+
+- C++
+- Git / GitHub
+- Lógica de programação
+
+📈 Sempre aprendendo algo novo.
