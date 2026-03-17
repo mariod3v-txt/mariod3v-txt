@@ -23,4 +23,4 @@
 📈 Sempre aprendendo algo novo.
 
 <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/94e2569a-ee9a-4d2e-b516-a6d36ac0271d" />
-<img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/b3bf646f-84db-4ab2-b34f-7dbe8e066423" />
+
