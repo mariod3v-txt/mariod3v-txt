@@ -1,7 +1,3 @@
-![Image](https://github.com/user-attachments/assets/3a530903-c0ee-4620-a2cc-016f4c6f7d04)
-
-
-
 # 👋 Olá, eu sou o Mario
 
 💻 Estudante de Engenharia de Software  
@@ -12,7 +8,7 @@
 ## 🚀 O que você vai encontrar aqui
 
 - 🎓 Projetos da faculdade
-- 💻 Experimentos e projetos em C++
+- 💻 Experimentos e projetos
 - 🧠 Estudos de programação e algoritmos
 - 🔐 Estudos de Cibersegurança
 - 🖥️ Laboratórios e experimentos com sistemas
@@ -21,7 +17,6 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento
-- C++
 - Lógica de programação
 - Algoritmos
 - Git / GitHub
